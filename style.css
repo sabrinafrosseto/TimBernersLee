@@ -4,8 +4,8 @@ body	{
 	font-size: 11pt;
 	background-color: #1b052b;
 	color: lightgray;
-	margin-left: 1em;
-	margin-right: 1em;
+	margin-left: 3em;
+	margin-right: 3em;
 }
 
 header {
@@ -40,7 +40,7 @@ h2{
  
 body > p{ 
 	text-align: justify; 
-	line-height: 1.25; 
+	line-height: 1.15; 
 	text-indent: 2em;
 
 }
@@ -68,7 +68,7 @@ nav a:hover{
 
 blockquote{
     font-style: italic;
-    font-size: 12pt;
+    font-size: 13pt;
     text-align: end;
 	font-family: Satisfy,  cursive;
 	color: gray;
