@@ -1,7 +1,7 @@
 body	{
 	font-family: Calibri, Arial, sans-serif;
-	font-weight: lighter;
-	font-size: 11pt;
+	font-weight: normal;
+	font-size: 12pt;
 	background-color: #1b052b;
 	color: lightgray;
 	margin-left: 3em;
@@ -13,7 +13,7 @@ header {
 }
 
 header h1{
-	margin-bottom: 0;
+	margin-bottom: 3em;
 }
 header blockquote{
 	margin-top: 0;
@@ -23,7 +23,7 @@ header blockquote{
 
 h1{
 	font-weight: bold;
-	font-size: xx-large;
+	font-size: 18pt;
 }
 
 a {
@@ -35,12 +35,13 @@ a:hover{
 }
 
 h2{
-	font-size: 170%;
+	font-size: 16pt;
+	font-weight: bold;
 }
  
 body > p{ 
 	text-align: justify; 
-	line-height: 1.15; 
+	line-height: 1.5; 
 	text-indent: 2em;
 
 }
@@ -52,6 +53,7 @@ nav ul{
 
 nav li{
 	display: inline-block;
+	font-family: cursive;
 }
 
 nav a{
@@ -75,11 +77,11 @@ blockquote{
 }
 
 figure img{
-	width: 250px;
+	width: 350px;
 }
 
 figure{
-	width: 250px;
+	width: 350px;
 	margin-left: 2em;
 	margin-right: 0;
     float: right;
